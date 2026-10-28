@@ -1,0 +1,6 @@
+# Hello World Task
+This project displays "Hello World!" using HTML.
+## Files
+- index.html
+## How to Run
+Open index.html in any web browser.
